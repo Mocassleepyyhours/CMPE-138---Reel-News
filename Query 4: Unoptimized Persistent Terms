@@ -1,0 +1,14 @@
+WITH weekly_terms AS (
+  SELECT
+    term,
+    week
+  FROM `bigquery-public-data.google_trends.top_terms`
+  WHERE dma_id = 807 -- SF Bay Area DMA id
+    AND week >= DATE_SUB(CURRENT_DATE(), INTERVAL 4 WEEK)
+)
+
+SELECT
+  term,
+  COUNT(DISTINCT week) AS weeks_appeared
+FROM weekly_terms
+GROUP BY term
