@@ -13,5 +13,3 @@ Check out our sample queries...Query 1 (search top results on 2025-04-20 in the 
 
 
 Cheers!
-
-** Queries 3 & 4 are pending submission as of 2025-05-01 19:13 PST **
