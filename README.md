@@ -9,7 +9,7 @@ We are Reel News! Our mission is to make news unbiased for the masses by impleme
 
 At this stage, we're showcasing how the application's database works in SQL!
 
-Check out our sample queries...Query 1 (search top results on 2025-04-20 in the cities LA, SF, OAK, SJ, SAC, ST, MOD), Query 2 (top rising terms), Query 3 (X), Query 4 (X), Query 5 (topic_historical_growth), Query 6 (unpopular_highrank_topics)!
+Check out our sample queries...Query 1 (search top results on 2025-04-20 in the cities LA, SF, OAK, SJ, SAC, ST, MOD), Query 2 (top rising terms), Query 3 (Weekly Score Gains), Query 4 (Persistent Terms), Query 5 (topic_historical_growth), Query 6 (unpopular_highrank_topics)!
 
 
 Cheers!
